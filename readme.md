@@ -22,3 +22,20 @@ I have an editor which I will setup a repo for tomorrow.
 [With disco effects (The way it's meant to be enjoyed!)](https://crazoter.github.io/Stand-In-Front-Of-Scenery-Slideshow/scenery_slideshow-disco.html)
 [*Without* disco effects (The serious demo)](https://crazoter.github.io/Stand-In-Front-Of-Scenery-Slideshow/scenery_slideshow.html)
 By default, the person featured is Evan (imaginary person) and the images are from [r/earthporn on Imgur](http://imgur.com/r/earthporn). 
+
+# Known Issues
+1. **I am floating on air / I am standing on water**: I know. I am, however, unwilling to expend incredulous amounts of efforts to create a "stand-on-solid-ground" algorithm for such a satirical project.
+  * Okay, it probably isn't so hard by simply checking the color of the pixels on where the person is supposed to be standing, or by simply allowing the user to drag and drop the person.
+
+
+License
+-----------------------
+The MIT License (MIT)
+
+Copyright (c) 2013 Crazoter
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
