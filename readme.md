@@ -10,10 +10,11 @@ This is a very silly project.
 This project retrieves its images from Imgur using Imgur API ( [r/earthporn on Imgur](http://imgur.com/r/earthporn) by default); it also uses [imagesloaded](https://github.com/desandro/imagesloaded) for loading of images and [Pace.js](https://github.com/HubSpot/pace) for preloading.
 
 # Features
-1. Stand in front of scenery (or... any sort of background image you can conjure). Be where you can never be in your lifetime. Pose like never before.
-2. Listen to awesome music while posing like a boss.
-3. Change the scenery when you get tired of it.
-4. Indulge in earth porn! Get detailed information of what you are posing in front of.
+1. **Immersive**: Stand in front of scenery (or... any sort of background image you can conjure). Be where you can never be in your lifetime. Pose like never before.
+2. **Melodic**: Listen to awesome music while posing like a boss.
+3. **Full Control**: Change the scenery when you get tired of it.
+4. **Informative**: Indulge in earth porn! Get detailed information of what you are posing in front of.
+5. **Responsive**: Adventure anywhere, anytime, on any device.
 
 # Editor
 You can create your own version here: https://github.com/crazoter/Stand-In-Front-Of-Scenery-Editor.
