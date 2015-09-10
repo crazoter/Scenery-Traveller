@@ -16,7 +16,7 @@ This project retrieves its images from Imgur using Imgur API ( [r/earthporn on I
 4. Indulge in earth porn! Get detailed information of what you are posing in front of.
 
 # Editor
-I have an editor which I will setup a repo for tomorrow.
+You can create your own version here: https://github.com/crazoter/Stand-In-Front-Of-Scenery-Editor.
 
 # Demo
 [With disco effects (The way it's meant to be enjoyed!)](https://crazoter.github.io/Stand-In-Front-Of-Scenery-Slideshow/scenery_slideshow-disco.html)
