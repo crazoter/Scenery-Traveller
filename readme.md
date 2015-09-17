@@ -4,7 +4,7 @@ Stand in front of scenery! With music!
 Demo:
 [With disco effects (The way it's meant to be enjoyed!)](https://crazoter.github.io/Scenery-Traveller/scenery_slideshow-disco.html)
 
-[*Without* disco effects (The serious demo)](https://crazoter.github.io/Scenery-Traveller/scenery_slideshow.html)
+[*Without* disco effects (The serious demo)](https://crazoter.github.io/Scenery-Traveller/scenery_slideshow.html?id=4ojMLPg)
 
 By default, the person featured is Evan (imaginary person) and the images are from [r/earthporn on Imgur](http://imgur.com/r/earthporn). You can create your own version here: https://github.com/crazoter/Scenery-Traveller-Editor.
 
@@ -20,10 +20,10 @@ This project retrieves its images from Imgur using Imgur API ( [r/earthporn on I
 
 # Features
 1. **Immersive**: Stand in front of scenery (or... any sort of background image you can conjure). Be where you can never be in your lifetime. Pose like never before.
-2. **Melodic**: Listen to awesome music while posing like a boss.
-3. **Full Control**: Change the scenery when you get tired of it.
+2. **Melodic**: Listen to awesome/soothing music while posing like a boss.
+3. **Full Control**: Change the scenery when you get tired of it. Or get the traveller to do it for you.
 4. **Informative**: Indulge in earth porn! Get detailed information of what you are posing in front of.
-5. **Responsive**: Adventure anywhere, anytime, on any device.
+5. **Responsive**: Adventure anywhere, anytime, on any device. Even the size of images loaded are based on the size of your device to ensure the smoothest transition from your home into the world.
 
 # Editor
 You can create your own version here: https://github.com/crazoter/Scenery-Traveller-Editor.
