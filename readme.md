@@ -1,5 +1,7 @@
 # Scenery Traveller
-Stand in front of scenery! With music!
+Imagine yourself standing in front of the world's grandest scenery. In front of the grand canyon. In lush forests. Accompanied with music. 
+
+Scenery Traveller teleports you from your home into the beautiful parts of the world, as if you are there amongst the foliage, or at the top of a mountain.
 
 Demo:
 [With disco effects (The way it's meant to be enjoyed!)](https://crazoter.github.io/Scenery-Traveller/scenery_slideshow-disco.html)
@@ -7,10 +9,6 @@ Demo:
 [*Without* disco effects (The serious demo)](https://crazoter.github.io/Scenery-Traveller/scenery_slideshow.html?id=4ojMLPg)
 
 By default, the person featured is Evan (imaginary person) and the images are from [r/earthporn on Imgur](http://imgur.com/r/earthporn). You can create your own version here: https://github.com/crazoter/Scenery-Traveller-Editor.
-
-Imagine yourself standing in front of the world's grandest scenery. In front of the grand canyon. In lush forests. Accompanied with music. 
-
-You are a traveller from the comfort of your home.
 
 Yup, that's this project in a nutshell.
 
