@@ -1,12 +1,16 @@
-# Stand in front of scenery slideshow
+# Scenery Traveller
 Stand in front of scenery! With music!
 
 Demo:
-[With disco effects (The way it's meant to be enjoyed!)](https://crazoter.github.io/Stand-In-Front-Of-Scenery-Slideshow/scenery_slideshow-disco.html)
-[*Without* disco effects (The serious demo)](https://crazoter.github.io/Stand-In-Front-Of-Scenery-Slideshow/scenery_slideshow.html)
-By default, the person featured is Evan (imaginary person) and the images are from [r/earthporn on Imgur](http://imgur.com/r/earthporn). 
+[With disco effects (The way it's meant to be enjoyed!)](https://crazoter.github.io/Scenery-Traveller/scenery_slideshow-disco.html)
+
+[*Without* disco effects (The serious demo)](https://crazoter.github.io/Scenery-Traveller/scenery_slideshow.html)
+
+By default, the person featured is Evan (imaginary person) and the images are from [r/earthporn on Imgur](http://imgur.com/r/earthporn). You can create your own version here: https://github.com/crazoter/Scenery-Traveller-Editor.
 
 Imagine yourself standing in front of the world's grandest scenery. In front of the grand canyon. In lush forests. Accompanied with music. 
+
+You are a traveller from the comfort of your home.
 
 Yup, that's this project in a nutshell.
 
@@ -22,11 +26,13 @@ This project retrieves its images from Imgur using Imgur API ( [r/earthporn on I
 5. **Responsive**: Adventure anywhere, anytime, on any device.
 
 # Editor
-You can create your own version here: https://github.com/crazoter/Stand-In-Front-Of-Scenery-Editor.
+You can create your own version here: https://github.com/crazoter/Scenery-Traveller-Editor.
 
 # Demo
-[With disco effects (The way it's meant to be enjoyed!)](https://crazoter.github.io/Stand-In-Front-Of-Scenery-Slideshow/scenery_slideshow-disco.html)
-[*Without* disco effects (The serious demo)](https://crazoter.github.io/Stand-In-Front-Of-Scenery-Slideshow/scenery_slideshow.html)
+[With disco effects (The way it's meant to be enjoyed!)](https://crazoter.github.io/Scenery-Traveller/scenery_slideshow-disco.html)
+
+[*Without* disco effects (The serious demo)](https://crazoter.github.io/Scenery-Traveller/scenery_slideshow.html)
+
 By default, the person featured is Evan (imaginary person) and the images are from [r/earthporn on Imgur](http://imgur.com/r/earthporn). 
 
 # Known Issues
